@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:armiza.rahmaddion@gmail.com">
+<a href="mailto:armizarahmaddion08@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -346,7 +346,7 @@ I'm open to opportunities involving:
 <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:armiza.rahmaddion@gmail.com">
+<a href="mailto:armizarahmaddion08@gmail.com">
 <img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
