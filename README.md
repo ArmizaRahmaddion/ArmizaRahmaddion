@@ -1,266 +1,23 @@
 <div align="center">
 
-# 👋 Hello World !, I'm **Armiza Rahmaddion**
-
-### Information Systems Student · Software Developer · Digital Solution Builder
-
-**I design and build digital solutions that turn ideas into useful, scalable products.**
-
-<p>
-  <a href="https://www.linkedin.com/in/armiza-rahmaddion/">LinkedIn</a>
-  ·
-  <a href="https://github.com/armizarahmaddion">GitHub</a>
-  ·
-  <a href="mailto:armiza.rahmaddion@gmail.com">Email</a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Information Systems student at Universitas Muhammadiyah Riau** with a strong interest in software development, digital products, and technology-driven problem solving.
-
-My experience spans across **web development, mobile development, machine learning, system analysis, and project management**. I enjoy working at the intersection of technology, business needs, and user experience.
-
-I don't just focus on writing code — I focus on **understanding the problem, designing the right solution, and delivering something that can actually be used.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  WHAT I DO                                                   │
-├──────────────────────────────────────────────────────────────┤
-│  🌐 Web Development       Build modern & scalable systems   │
-│  📱 Mobile Development    Develop Android applications      │
-│  🤖 Machine Learning      Build data-driven solutions       │
-│  🧩 System Analysis       Translate problems into systems   │
-│  🚀 Project Management    Coordinate ideas into delivery    │
-│  🎨 Digital Solutions     Design practical digital products│
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,kotlin,dart,python,javascript,html,css" />
-</p>
-
-### Frameworks & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,flutter,androidstudio,bootstrap,tailwind" />
-</p>
-
-### Database, Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,figma,linux,vscode" />
-</p>
-
-### Currently Exploring
-
-`Laravel` · `Flutter` · `Machine Learning` · `System Architecture` · `AI Integration` · `Product Development`
-
----
-
-# 🚀 Featured Projects
-
-## 🏛️ SILANKA — Digital Village Administration
-
-**SILANKA** is a web-based information system designed to digitalize administrative services at the village/nagari level.
-
-The platform provides digital workflows for electronic letters, complaints, citizen verification, notifications, and administrative management.
-
-**Built with:**
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `Spatie Permission` `SweetAlert2`
-
-**Highlights**
-
-* 📄 Electronic letter administration
-* 📢 Digital complaint management
-* 👥 Role-based access control
-* 🔐 Citizen verification workflow
-* 📱 Responsive administration dashboard
-* 🔔 Notification integration
-* 📊 Administrative monitoring
-
----
-
-## 🤰 PeduliBumil — Pregnancy Risk & Assistance Platform
-
-A digital health project developed to support pregnancy risk screening and maternal assistance.
-
-The project combines **machine learning, mobile development, and conversational AI** to provide a more accessible digital experience for pregnant women.
-
-**Built with:**
-
-`Kotlin` `Android` `TensorFlow Lite` `Python` `Cloud Run` `AI`
-
-**Highlights**
-
-* 🧠 Pregnancy risk classification
-* 📱 Native Android application
-* 🤖 AI-powered chatbot assistant
-* ☁️ Cloud-based prediction service
-* 🔔 Pregnancy reminders
-* ❤️ Maternal health information
-
----
-
-## 🌐 NUSA CORPORATE
-
-A modern corporate digital platform concept for a distribution and industrial company.
-
-The project focuses on transforming a traditional company profile into a **digital business platform** with product catalogs, project showcases, careers, content management, and customer inquiries.
-
-**Planned stack:**
-
-`Laravel` `PHP` `MySQL` `Tailwind CSS`
-
-**Core modules**
-
-`Company Profile` · `Product Catalog` · `Projects` · `Career` · `Blog` · `Contact` · `Admin CMS`
-
----
-
-# 💡 What I'm Interested In
-
-```text
-Software Engineering
-        │
-        ├── Web Applications
-        ├── Mobile Applications
-        ├── Backend Systems
-        └── API Development
-
-Data & AI
-        │
-        ├── Machine Learning
-        ├── Classification
-        ├── AI Integration
-        └── Data-driven Solutions
-
-Digital Products
-        │
-        ├── Product Strategy
-        ├── System Analysis
-        ├── UI/UX
-        └── Project Management
-```
-
----
-
-# 🎓 Experience & Learning
-
-### Google, GoTo & Traveloka — Bangkit Academy
-
-**Mobile Development Learning Path · 2024**
-
-Focused on Android development, software engineering fundamentals, and collaborative product development.
-
----
-
-### Coding Camp powered by DBS Foundation
-
-**Machine Learning Engineer**
-
-Developed practical skills in machine learning, data processing, model development, and applied AI.
-
----
-
-### Universitas Muhammadiyah Riau
-
-**Bachelor of Information Systems**
-
-Currently developing expertise in information systems, software engineering, data, and digital transformation.
-
----
-
-# 🏆 Beyond Coding
-
-Technology is only one part of what I do.
-
-I also actively work in **student leadership, organizational development, community engagement, and project coordination**.
-
-These experiences have taught me how to:
-
-* Lead and coordinate teams
-* Communicate with different stakeholders
-* Manage projects and timelines
-* Translate ideas into actionable programs
-* Work under real-world constraints
-* Build solutions collaboratively
-
-> **Good technology solves problems.
-> Great technology solves the right problems.**
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=armizarahmaddion&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armizarahmaddion&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=armizarahmaddion&hide_border=true" />
-
-</div>
-
----
-
-# 📈 My Development Philosophy
-
-```text
-Understand the problem
-        ↓
-Analyze the requirements
-        ↓
-Design the right solution
-        ↓
-Build & test
-        ↓
-Iterate
-        ↓
-Deliver something useful
-```
-
-I believe software development is not simply about choosing the latest technology.
-
-It's about **choosing the right technology to solve the right problem.**
-
----
-
-# 🤝 Let's Connect
-
-I'm open to opportunities involving:
-
-**Software Development · Web Development · Mobile Development · Machine Learning · Digital Products · Project Management · Technology Collaboration**
-
-<div align="center">
-
-### Let's build something meaningful.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=220&section=header&text=ARMIZA%20RAHMADDION&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Digital%20Solution%20Builder&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Digital+Solutions;Developing+Web+%26+Mobile+Applications;Exploring+Machine+Learning;Turning+Ideas+Into+Useful+Products;Solving+Real-World+Problems+With+Technology" alt="Typing SVG"/>
+</a>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/armiza-rahmaddion/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:armizarahmaddion08@gmail.com">
+&nbsp;
+<a href="mailto:armiza.rahmaddion@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/armizarahmaddion">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -269,10 +26,340 @@ I'm open to opportunities involving:
 
 ---
 
+## 👋 About Me
+
+I'm **Armiza Rahmaddion**, an Information Systems student and software developer from Indonesia who enjoys turning ideas and real-world problems into practical digital solutions.
+
+My interests sit at the intersection of **software engineering, digital products, data, and project management**.
+
+I enjoy working across the development lifecycle — from understanding requirements and designing systems to building, testing, and delivering usable products.
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                        ARMIZA RAHMADDION                       │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  🎓 Information Systems                                      │
+│  💻 Software Development                                     │
+│  🌐 Web & Mobile Applications                                │
+│  🤖 Machine Learning & AI                                    │
+│  🧩 System Analysis                                          │
+│  🚀 Digital Product Development                              │
+│  👥 Project & Team Management                                │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+> **I don't just build software. I build solutions around problems.**
+
+---
+
+# 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Designing and developing web-based information systems with a focus on usability, maintainability, and scalable architecture.
+
+**Focus**
+
+`Laravel` · `PHP` · `MySQL` · `REST API`
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Development
+
+Building Android and cross-platform applications with clean interfaces and practical user experiences.
+
+**Focus**
+
+`Kotlin` · `Android` · `Flutter`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Exploring machine learning to transform structured data into meaningful predictions and insights.
+
+**Focus**
+
+`Python` · `Scikit-learn` · `Random Forest` · `Data Analysis`
+
+</td>
+<td width="50%">
+
+### 🚀 Digital Solutions
+
+Connecting technology, business requirements, and users to create solutions that are actually useful.
+
+**Focus**
+
+`System Analysis` · `Product Development` · `Project Management`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,kotlin,dart,python,javascript,html,css" />
+</p>
+
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,androidstudio,bootstrap,tailwind" />
+</p>
+
+### Database, Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,figma,vscode,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏛️ SILANKA
+
+### Digital Administration Platform for Nagari Koto Alam
+
+A web-based information system designed to digitalize administrative services and improve the efficiency of village/nagari administration.
+
+**Core Modules**
+
+* 📄 Electronic Letter Services
+* 📢 Digital Complaints
+* 👥 Citizen Verification
+* 🔐 Role-Based Access Control
+* 📱 Responsive Administration Dashboard
+* 🔔 Notification Integration
+* 📰 Information & News Management
+
+**Stack**
+
+`Laravel 12` `PHP` `MySQL` `Bootstrap 5` `Spatie Permission` `SweetAlert2`
+
+---
+
+## 🤰 PeduliBumil
+
+### Digital Pregnancy Risk & Assistance Platform
+
+A digital health project combining mobile development, machine learning, and conversational AI to support pregnancy risk screening and maternal assistance.
+
+**Core Components**
+
+* 🧠 Pregnancy Risk Classification
+* 📱 Native Android Application
+* 🤖 AI Chatbot — Teman Bumil
+* ☁️ Cloud Prediction Service
+* 🔔 Pregnancy Reminders
+* ❤️ Maternal Health Information
+
+**Stack**
+
+`Kotlin` `Android` `Python` `TensorFlow Lite` `Cloud Run` `AI`
+
+---
+
+## 🏢 NUSA CORPORATE
+
+### Corporate Digital Platform
+
+A modern corporate website concept for a distribution and industrial company, designed beyond a traditional company profile.
+
+The platform focuses on **brand credibility, product discovery, lead generation, recruitment, and content management**.
+
+**Core Modules**
+
+`Company Profile` · `Product Catalog` · `Project Showcase` · `Career` · `Blog` · `Contact` · `Admin CMS`
+
+**Stack**
+
+`Laravel` `PHP` `MySQL` `Tailwind CSS`
+
+---
+
+# ⚡ Currently Building
+
 <div align="center">
 
-**© 2026 Armiza Rahmaddion**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=%24+building+digital+solutions...;%24+learning+new+technologies...;%24+turning+ideas+into+products...;%24+solving+real-world+problems..." alt="Terminal animation"/>
 
-*Building digital solutions, one problem at a time.*
+</div>
+
+```text
+$ current_focus
+
+├── Software Engineering
+│   ├── Web Application Architecture
+│   ├── Backend Development
+│   └── API Integration
+│
+├── Digital Products
+│   ├── Product Development
+│   ├── System Analysis
+│   └── User Experience
+│
+└── Data & AI
+    ├── Machine Learning
+    ├── Classification
+    └── AI Integration
+```
+
+---
+
+# 🎓 Experience & Learning
+
+### Google × GoTo × Traveloka — Bangkit Academy
+
+**Mobile Development Learning Path · 2024**
+
+Focused on Android development, software engineering fundamentals, collaborative development, and product-oriented problem solving.
+
+### Coding Camp — DBS Foundation
+
+**Machine Learning Engineer**
+
+Developed practical experience in data processing, machine learning workflows, model development, and applied AI.
+
+### Universitas Muhammadiyah Riau
+
+**Bachelor of Information Systems**
+
+Building a foundation across information systems, software engineering, data, business processes, and digital transformation.
+
+---
+
+# 🧩 Beyond Code
+
+Technology is only one part of my journey.
+
+I've also been involved in **student leadership, organizational development, community programs, communication, and project coordination**.
+
+These experiences shaped how I approach technology:
+
+```text
+Technical Skills
+       +
+Problem Solving
+       +
+Communication
+       +
+Leadership
+       +
+Project Management
+       ↓
+Practical Digital Solutions
+```
+
+I believe good developers should understand not only **how to build something**, but also **why it needs to be built in the first place.**
+
+---
+
+# 💭 My Development Philosophy
+
+<div align="center">
+
+### Understand → Design → Build → Test → Improve → Deliver
+
+</div>
+
+```text
+                    ┌──────────────────┐
+                    │   REAL PROBLEM   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │    UNDERSTAND    │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      DESIGN      │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      BUILD       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │  TEST & IMPROVE  │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │     DELIVER      │
+                    └──────────────────┘
+```
+
+> **Technology should simplify complexity, not create more of it.**
+
+---
+
+# 🌱 Always Learning
+
+I'm continuously exploring:
+
+`Software Architecture`
+
+`Laravel & Backend Engineering`
+
+`Flutter & Mobile Development`
+
+`Machine Learning`
+
+`Artificial Intelligence`
+
+`System Analysis`
+
+`Digital Product Development`
+
+`Project Management`
+
+---
+
+# 🤝 Let's Build Something
+
+I'm open to opportunities involving:
+
+**Software Development · Web Development · Mobile Development · Machine Learning · Digital Products · System Analysis · Project Management · Technology Collaboration**
+
+<div align="center">
+
+<br>
+
+<a href="https://www.linkedin.com/in/armiza-rahmaddion/">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:armiza.rahmaddion@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💻 Build. Learn. Solve. Grow.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
